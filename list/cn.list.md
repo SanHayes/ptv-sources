@@ -165,7 +165,7 @@
 | 159 | [BD]辽宁卫视 | [[BD]辽宁卫视](https://epg.pw/stream/668531d8c6ef8903d2390f688876580fc12aab5497d367e537b8205169d15e87.m3u8) |
 | 160 | [HD]邢台综合频道 | [[HD]邢台综合频道](https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8) |
 | 161 | [BD]重庆卫视 | [[BD]重庆卫视](https://epg.pw/stream/d91a8fab4efc2e9cc720dd1a077c914dd5bbed87088e76a94c10a9a802e89f70.ctv) |
-| 162 | [BD]金色学堂[ipv6] | [[BD]金色学堂[ipv6]](https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8) |
+| 162 | [BD]金色学堂 8m | [[BD]金色学堂 8m](https://epg.pw/stream/a91c9242cd7d5e2a2b172ccf78cde12f84610d47a1ea6de9b99b7e24354d447d.ctv) |
 | 163 | [BD]金鹰纪实 8m | [[BD]金鹰纪实 8m](https://epg.pw/stream/f129dd062627e43e9a6ed6e033b8659688d6faf22c5b33cbf278ef29dbf876c6.ctv) |
 | 164 | [BD]镇江新闻综合 | [[BD]镇江新闻综合](rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd) |
 | 165 | [BD]镇江新闻 | [[BD]镇江新闻](rtmp://zjtv-wshls.homecdn.com/live/2aa50) |
@@ -183,4 +183,4 @@
 | 177 | [SD]黑龙江公共农业 | [[SD]黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 178 | [BD]黑龙江卫视 8m | [[BD]黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Sun Dec 17 2023 08:27:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 17 2023 10:28:02 GMT+0000 (Coordinated Universal Time)**
