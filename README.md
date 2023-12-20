@@ -31,7 +31,7 @@ Sources are from:
 | iptv.org stream China CCTV | <https://m3u.ibert.me/o_s_cn_cctv.m3u> <br> <https://m3u.ibert.me/txt/o_s_cn_cctv.txt> | [List for iptv.org stream China CCTV](https://m3u.ibert.me/list/o_s_cn_cctv.list) | 22 | - |
 | iptv.org stream China CGTN | <https://m3u.ibert.me/o_s_cn_cgtn.m3u> <br> <https://m3u.ibert.me/txt/o_s_cn_cgtn.txt> | [List for iptv.org stream China CGTN](https://m3u.ibert.me/list/o_s_cn_cgtn.list) | 6 | - |
 
-Updated at **Wed Dec 20 2023 00:48:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 20 2023 00:49:32 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
