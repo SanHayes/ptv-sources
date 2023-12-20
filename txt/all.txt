@@ -1827,4 +1827,3 @@ All,#genre#
 [HD]点掌财经,https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8
 [BD]龙祥电影,https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv
 [BD]국악방송,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
-
