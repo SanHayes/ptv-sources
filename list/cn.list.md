@@ -20,8 +20,8 @@
 | 14 | [BD]cctv4k超高清[ipv6] | [BD cctv4k超高清 ipv6](https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8) |
 | 15 | [BD]cctv5[ipv6] | [BD cctv5 ipv6](https://epg.pw/stream/7fd03354d83e374ff627c5846e60f0b8bbc68be70f73ca9ba56bd2ed9e325421.m3u8) |
 | 16 | [BD]cctv 5 | [BD cctv 5](https://epg.pw/stream/bea9cd814987adc99d80a9c5d4809e8670c99b9797c2abcacd77ab8459792df9.m3u8) |
-| 17 | [BD]cctv-5+ 体育赛事 | [BD cctv-5+ 体育赛事](https://epg.pw/stream/eb41e17246248e438598bfcec41dbb4fbd2fde87e9f658d776d8eabdea473b3f.m3u8) |
-| 18 | [SD]cctv6 | [SD cctv6](https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8) |
+| 17 | [BD]cctv5+ | [BD cctv5+](https://epg.pw/stream/a7116fdb22e0136417238128e16f99f809a03400642ff9bd287ea5836655d29a.m3u8) |
+| 18 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8) |
 | 19 | [BD]cctv7[ipv6] | [BD cctv7 ipv6](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 20 | [BD]cctv8 | [BD cctv8](https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8) |
 | 21 | [VGA]cctv9 | [VGA cctv9](https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8) |
@@ -41,8 +41,8 @@
 | 35 | [HD]nfl channel | [HD nfl channel](https://epg.pw/stream/24a73a702372c944732ac9f46870481c922666d21ca9697202cac9dcecd788c7.m3u8) |
 | 36 | [BD]rt documentary | [BD rt documentary](https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8) |
 | 37 | [SD]万州科教 | [SD 万州科教](https://epg.pw/stream/aff41d9171e19270999335d0346c0dac4a73f76a47f63489ce6e69101b59416a.m3u8) |
-| 38 | [HD]三明新闻综合 | [HD 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
-| 39 | [SD]上海教育[ipv6] | [SD 上海教育 ipv6](https://epg.pw/stream/91dbe729813036326a6c7cd5507f2bdc96675567ce979bbc17f348adaeeacc39.m3u8) |
+| 38 | [VGA]三明新闻综合 | [VGA 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
+| 39 | [BD]上海教育 8m | [BD 上海教育 8m](https://epg.pw/stream/4c2942fcdda269a17223ee1c3f2330e817b766b5bb78bee19b39a3d31567e68d.ctv) |
 | 40 | [BD]上海纪实人文 | [BD 上海纪实人文](https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.ctv) |
 | 41 | [BD]上海都市 | [BD 上海都市](https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.ctv) |
 | 42 | [SD]丘北新闻综合 | [SD 丘北新闻综合](https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8) |
@@ -98,7 +98,7 @@
 | 92 | [BD]早期教育 | [BD 早期教育](https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv) |
 | 93 | [BD]晋城公共 | [BD 晋城公共](https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8) |
 | 94 | [BD]东南卫视 | [BD 东南卫视](https://epg.pw/stream/93a8f67f0f3354496b9a612649d40aca459161284ffda09dd02506f115a7ce38.ctv) |
-| 95 | [SD]林正英 | [SD 林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
+| 95 | [BD]林正英 | [BD 林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
 | 96 | [SD]枣庄公共频道 | [SD 枣庄公共频道](https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8) |
 | 97 | [SD]枣庄新闻综合 | [SD 枣庄新闻综合](https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8) |
 | 98 | [BD]梨园频道[ipv6] | [BD 梨园频道 ipv6](https://epg.pw/stream/7c43577c864ee142dd48684afeab4892eee19e249d3dfbef02367133a129d32e.m3u8) |
@@ -176,4 +176,4 @@
 | 170 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 171 | [BD]黑龙江卫视 8m | [BD 黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Sun Dec 24 2023 16:31:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 02:11:07 GMT+0000 (Coordinated Universal Time)**
